@@ -9,7 +9,7 @@ Links below to visualize the notebooks rendered.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [DTSA_5510_Final_Part1_of_2.ipynb](https://nbviewer.org/github/stevensmiley1989/Unsupervised_ML_NMF/blob/main/Final_DTSA_5010.ipynb) | Jupyter Notebook|
+| [Final_DTSA_5510.ipynb](https://nbviewer.org/github/stevensmiley1989/Unsupervised_ML_NMF/blob/main/Final_DTSA_5010.ipynb) | Jupyter Notebook|
 
 
 ## 2 Data Inputs <a class="anchor" id="2"></a>
